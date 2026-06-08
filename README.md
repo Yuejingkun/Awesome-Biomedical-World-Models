@@ -29,6 +29,7 @@ A curated collection of papers, datasets, benchmarks, and resources related to B
 - 🪡 [World Models for Surgical Simulation and Embodied Autonomy](#world-models-for-surgical-simulation-and-embodied-autonomy)
 - 📣 [Contributing](#contributing)
 - 🙏 [Acknowledgements](#acknowledgements)
+- 🌟 [Citation](#citation)
 
 ---
 
@@ -91,6 +92,15 @@ This project is largely inspired by the following awesome lists:
 We appreciate their open-source efforts in curating world model research across different domains.
 
 
-## 🌟 Citation
+## Citation
 
 If you find this repository useful in your research, please consider giving a star and citation.
+
+```Bibtex
+@article{wang2026towards,
+  title={Towards World Models in Biomedical Research},
+  author={Wang, Guangyu and Yue, Jingkun and Zhang, Siqi and Liu, Yu and Wang, Xiaoyu and Meng, Mingyuan and Ji, Changwei and Han, Zongbo and Wang, Yulin and Yue, Yang and others},
+  journal={arXiv preprint arXiv:2606.05925},
+  year={2026}
+}
+```
