@@ -25,8 +25,10 @@ A curated collection of papers, datasets, benchmarks, and resources related to B
 ## Overview
 
 - 🦠 [World Models for Molecular and Cellular Dynamics](#world-models-for-molecular-and-cellular-dynamics)
+- 🫀 [World Models for Virtual Organoids](#world-models-for-virtual-organoids)
 - 👤 [World Models for Virtual Patients and Clinical Decision-Making](#world-models-for-virtual-patients-and-clinical-decision-making)
 - 🪡 [World Models for Surgical Simulation and Embodied Autonomy](#world-models-for-surgical-simulation-and-embodied-autonomy)
+- 📊 [Data](#data)
 - 📣 [Contributing](#contributing)
 - 🙏 [Acknowledgements](#acknowledgements)
 - 🌟 [Citation](#citation)
@@ -40,8 +42,12 @@ A curated collection of papers, datasets, benchmarks, and resources related to B
 - **VCWorld**, "VCWorld: A Biological World Model for Virtual Cell Simulation". [[Paper](https://arxiv.org/abs/2512.00306)] [[Code](https://github.com/GENTEL-lab/VCWorld)]
 - **MOLWORLD**, "MOLWORLD: Molecule World Models for Actionable Molecular Optimization". [[Paper](https://arxiv.org/abs/2605.08954)]
 - **ODesign**, "ODesign: A World Model for Biomolecular Interaction Design". [[Paper](https://arxiv.org/abs/2510.22304)] [[Code](https://github.com/OTeam-AI4S/ODesign)] [[Website](https://odesign1.github.io/)]
+- **CellOS**, "CellOS: Learning a World Model of Cellular State through Joint Embedding Prediction". [[Paper](https://www.biorxiv.org/content/10.64898/2026.06.18.733163v1)]
 
+---
 
+## World Models for Virtual Organoids
+- **V3Cell**, "V3Cell: A Vision-Guided Virtual 3D Cell Framework for Phenotypic Modeling and Perturbation Prediction". [[Paper](https://www.biorxiv.org/content/10.64898/2026.06.23.734130v1)] [[Code](https://github.com/Laineyoulu/V3Cell)]
 
 ---
 
@@ -60,6 +66,7 @@ A curated collection of papers, datasets, benchmarks, and resources related to B
 - **Cardiac Copilot**, "Cardiac Copilot: Automatic Probe Guidance for Echocardiography with World Model". [[Paper](https://arxiv.org/abs/2406.13165v2)]
 - **SepsisAgent**, "Agentifying Patient Dynamics within LLMs through Interacting with Clinical World Model". [[Paper](https://arxiv.org/abs/2605.14723)] [[code](https://github.com/FreedomIntelligence/SepsisAgent)]
 - **DiagGym**, "Evolving Interactive Diagnostic Agents in a Virtual Clinical Environment". [[Paper](https://arxiv.org/abs/2510.24654)] [[Code](https://github.com/MAGIC-AI4Med/DiagGym)]
+- **TwinRL-Onco**, "TwinRL-Onco: A World Model-Empowered Digital Twin Framework with Hierarchical Reinforcement Learning for Venetoclax Resistance Trajectory Prediction and Adaptive Therapy Optimization in Chronic Lymphocytic Leukemia". [[Paper](https://ieeexplore.ieee.org/document/11535005)]
 
 ---
 
@@ -71,7 +78,18 @@ A curated collection of papers, datasets, benchmarks, and resources related to B
 - **Cosmos-H-Surgical**, "Cosmos-H-Surgical: Learning Surgical Robot Policies from Videos via World Modeling". [[Paper](https://arxiv.org/abs/2512.23162)] [[Code](https://github.com/NVIDIA-Medtech/Cosmos-H-Surgical)]
 - **Cosmos-Surg-dVRK**, "Cosmos-Surg-dVRK: World Foundation Model-based Automated Online Evaluation of Surgical Robot Policy Learning". [[Paper](https://arxiv.org/abs/2510.16240)]
 - **Suturing World Model**, "Towards Suturing World Models: Learning Predictive Models for Robotic Surgical Tasks". [[Paper](https://arxiv.org/abs/2503.12531)] [[Website](https://mkturkcan.github.io/suturingmodels/)]
+- **SAW**, "SAW: Toward a Surgical Action World Model via
+Controllable and Scalable Video Generation". [[Paper](https://arxiv.org/abs/2603.13024)]
+- **SWoMo**, "SWoMo: Neuro-Symbolic World Model for Cataract Surgery Simulation". [[Paper](https://arxiv.org/abs/2605.16530)] [[Code](https://github.com/MECLabTUDA/SWoMo)] [[Website](https://ssharvienkumar.github.io/SWoMo/)]
+- **SurgVista**, "SurgVista: Long-Horizon Surgical World Modeling
+with Plausible Instrument-Tissue Dynamics". [[Paper](https://arxiv.org/abs/2606.19889)]
 
+---
+
+## Data
+
+- **Open-H-Embodiment**,"Open-H-Embodiment: A Large-Scale Dataset
+for Enabling Foundation Models in Medical Robotics". [[Paper](https://arxiv.org/abs/2604.21017)] [[Website](https://open-h.github.io/open-h-embodiment/)]
 
 ---
 
