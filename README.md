@@ -43,6 +43,7 @@ A curated collection of papers, datasets, benchmarks, and resources related to B
 - **MOLWORLD**, "MOLWORLD: Molecule World Models for Actionable Molecular Optimization". [[Paper](https://arxiv.org/abs/2605.08954)]
 - **ODesign**, "ODesign: A World Model for Biomolecular Interaction Design". [[Paper](https://arxiv.org/abs/2510.22304)] [[Code](https://github.com/OTeam-AI4S/ODesign)] [[Website](https://odesign1.github.io/)]
 - **CellOS**, "CellOS: Learning a World Model of Cellular State through Joint Embedding Prediction". [[Paper](https://www.biorxiv.org/content/10.64898/2026.06.18.733163v1)]
+- **MicroVerse**, "MicroVerse: A Preliminary Exploration Toward a Micro-World Simulation". [[Paper](https://arxiv.org/abs/2603.00585)] [[Code](https://github.com/FreedomIntelligence/MicroVerse)]
 
 ---
 
@@ -67,6 +68,8 @@ A curated collection of papers, datasets, benchmarks, and resources related to B
 - **SepsisAgent**, "Agentifying Patient Dynamics within LLMs through Interacting with Clinical World Model". [[Paper](https://arxiv.org/abs/2605.14723)] [[code](https://github.com/FreedomIntelligence/SepsisAgent)]
 - **DiagGym**, "Evolving Interactive Diagnostic Agents in a Virtual Clinical Environment". [[Paper](https://arxiv.org/abs/2510.24654)] [[Code](https://github.com/MAGIC-AI4Med/DiagGym)]
 - **TwinRL-Onco**, "TwinRL-Onco: A World Model-Empowered Digital Twin Framework with Hierarchical Reinforcement Learning for Venetoclax Resistance Trajectory Prediction and Adaptive Therapy Optimization in Chronic Lymphocytic Leukemia". [[Paper](https://ieeexplore.ieee.org/document/11535005)]
+- **MedGenesis**, "MedGenesis: Toward a World Model for
+Autonomous Clinical and Translational Research". [[Paper](https://www.medrxiv.org/content/10.64898/2026.06.14.26355612v1)]
 
 ---
 
@@ -88,7 +91,7 @@ with Plausible Instrument-Tissue Dynamics". [[Paper](https://arxiv.org/abs/2606.
 
 ## Data
 
-- **Open-H-Embodiment**,"Open-H-Embodiment: A Large-Scale Dataset
+- **Open-H-Embodiment**, "Open-H-Embodiment: A Large-Scale Dataset
 for Enabling Foundation Models in Medical Robotics". [[Paper](https://arxiv.org/abs/2604.21017)] [[Website](https://open-h.github.io/open-h-embodiment/)]
 
 ---
