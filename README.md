@@ -87,7 +87,7 @@ Controllable and Scalable Video Generation". [[Paper](https://arxiv.org/abs/2603
 - **SurgVista**, "SurgVista: Long-Horizon Surgical World Modeling
 with Plausible Instrument-Tissue Dynamics". [[Paper](https://arxiv.org/abs/2606.19889)]
 - **Surg-UniWorld**, "Surg-UniWorld: A Unified Surgical World Model with Multimodal Control Experts". [[Paper](https://arxiv.org/abs/2608.06770)]
-- **CrossScope**, "CrossScope: ARole-AsymmetricWorldModel for Joint Dual-Scope Surgical VideoPrediction". [[Paper](https://arxiv.org/abs/2608.03211)]
+- **CrossScope**, "CrossScope: A Role-Asymmetric World Model for Joint Dual-Scope Surgical Video Prediction". [[Paper](https://arxiv.org/abs/2608.03211)]
 
 ---
 
