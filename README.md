@@ -86,6 +86,8 @@ Controllable and Scalable Video Generation". [[Paper](https://arxiv.org/abs/2603
 - **SWoMo**, "SWoMo: Neuro-Symbolic World Model for Cataract Surgery Simulation". [[Paper](https://arxiv.org/abs/2605.16530)] [[Code](https://github.com/MECLabTUDA/SWoMo)] [[Website](https://ssharvienkumar.github.io/SWoMo/)]
 - **SurgVista**, "SurgVista: Long-Horizon Surgical World Modeling
 with Plausible Instrument-Tissue Dynamics". [[Paper](https://arxiv.org/abs/2606.19889)]
+- **Surg-UniWorld**, "Surg-UniWorld: A Unified Surgical World Model with Multimodal Control Experts". [[Paper](https://arxiv.org/abs/2608.06770)]
+- **CrossScope**, "CrossScope: ARole-AsymmetricWorldModel for Joint Dual-Scope Surgical VideoPrediction". [[Paper](https://arxiv.org/abs/2608.03211)]
 
 ---
 
