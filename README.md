@@ -91,6 +91,19 @@ with Plausible Instrument-Tissue Dynamics". [[Paper](https://arxiv.org/abs/2606.
 
 ---
 
+## Other
+
+- "Did the Grid Erase the Event? EndoClock for Auditing Medical World-Model Pipelines". [[Paper](https://arxiv.org/pdf/2608.09266)]
+
+
+---
+
+## Challenge
+
+- International Workshop on Medical World Model (MWM) in MICCAI 2026. [[Website](https://mwm2026.github.io/)]
+
+---
+
 ## Data
 
 - **Open-H-Embodiment**, "Open-H-Embodiment: A Large-Scale Dataset
