@@ -1,3 +1,5 @@
+
+
 <div align="center">
 
 # Awesome-Biomedical-World-Models
@@ -65,7 +67,7 @@ A curated collection of papers, datasets, benchmarks, and resources related to B
 - **MRI CEK-World**, "MRI Contrast Enhancement Kinetics World Model". [[Paper](https://arxiv.org/abs/2602.19285)] [[Code](https://github.com/DD0922/MRI-Contrast-Enhancement-Kinetics-World-Model)]
 - **Cardiac World Model**, "Structure-aware World Model for Probe Guidance via Large-scale Self-supervised Pre-train". [[Paper](https://arxiv.org/abs/2406.19756v2)]
 - **Cardiac Copilot**, "Cardiac Copilot: Automatic Probe Guidance for Echocardiography with World Model". [[Paper](https://arxiv.org/abs/2406.13165v2)]
-- **SepsisAgent**, "Agentifying Patient Dynamics within LLMs through Interacting with Clinical World Model". [[Paper](https://arxiv.org/abs/2605.14723)] [[code](https://github.com/FreedomIntelligence/SepsisAgent)]
+- **SepsisAgent**, "Agentifying Patient Dynamics within LLMs through Interacting with Clinical World Model". [[Paper](https://arxiv.org/abs/2605.14723)] [[Code](https://github.com/FreedomIntelligence/SepsisAgent)]
 - **DiagGym**, "Evolving Interactive Diagnostic Agents in a Virtual Clinical Environment". [[Paper](https://arxiv.org/abs/2510.24654)] [[Code](https://github.com/MAGIC-AI4Med/DiagGym)]
 - **TwinRL-Onco**, "TwinRL-Onco: A World Model-Empowered Digital Twin Framework with Hierarchical Reinforcement Learning for Venetoclax Resistance Trajectory Prediction and Adaptive Therapy Optimization in Chronic Lymphocytic Leukemia". [[Paper](https://ieeexplore.ieee.org/document/11535005)]
 - **MedGenesis**, "MedGenesis: Toward a World Model for
