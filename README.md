@@ -70,6 +70,7 @@ A curated collection of papers, datasets, benchmarks, and resources related to B
 - **TwinRL-Onco**, "TwinRL-Onco: A World Model-Empowered Digital Twin Framework with Hierarchical Reinforcement Learning for Venetoclax Resistance Trajectory Prediction and Adaptive Therapy Optimization in Chronic Lymphocytic Leukemia". [[Paper](https://ieeexplore.ieee.org/document/11535005)]
 - **MedGenesis**, "MedGenesis: Toward a World Model for
 Autonomous Clinical and Translational Research". [[Paper](https://www.medrxiv.org/content/10.64898/2026.06.14.26355612v1)]
+- **HounsWorld**, "HounsWorld: A Multimodal World Model for Hidden Patient-State Readout, Reconstruction, and Simulation". [[Paper](https://arxiv.org/abs/2608.12904)] [[Code](https://github.com/byhwhite/HounsWorld)]
 
 ---
 
@@ -88,6 +89,7 @@ Controllable and Scalable Video Generation". [[Paper](https://arxiv.org/abs/2603
 with Plausible Instrument-Tissue Dynamics". [[Paper](https://arxiv.org/abs/2606.19889)]
 - **Surg-UniWorld**, "Surg-UniWorld: A Unified Surgical World Model with Multimodal Control Experts". [[Paper](https://arxiv.org/abs/2608.06770)]
 - **CrossScope**, "CrossScope: A Role-Asymmetric World Model for Joint Dual-Scope Surgical Video Prediction". [[Paper](https://arxiv.org/abs/2608.03211)]
+- **S2-HWM**,  "S2-HWM: Sparse Event-Structured Hierarchical World Model for Long-Horizon Surgical Robot Manipulation". [[Paper](https://arxiv.org/abs/2608.13103)]
 
 ---
 
