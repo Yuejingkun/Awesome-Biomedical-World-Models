@@ -71,6 +71,8 @@ A curated collection of papers, datasets, benchmarks, and resources related to B
 - **MedGenesis**, "MedGenesis: Toward a World Model for
 Autonomous Clinical and Translational Research". [[Paper](https://www.medrxiv.org/content/10.64898/2026.06.14.26355612v1)]
 - **HounsWorld**, "HounsWorld: A Multimodal World Model for Hidden Patient-State Readout, Reconstruction, and Simulation". [[Paper](https://arxiv.org/abs/2608.12904)] [[Code](https://github.com/byhwhite/HounsWorld)]
+- **Atrial fibrillation world model**, "Intervention-Aware Clinical World Model for
+Post–Op Outcome Forecasting in Cardiology". [[Paper](https://arxiv.org/abs/2608.13518)]
 
 ---
 
@@ -91,7 +93,6 @@ with Plausible Instrument-Tissue Dynamics". [[Paper](https://arxiv.org/abs/2606.
 - **CrossScope**, "CrossScope: A Role-Asymmetric World Model for Joint Dual-Scope Surgical Video Prediction". [[Paper](https://arxiv.org/abs/2608.03211)]
 - **S2-HWM**,  "S2-HWM: Sparse Event-Structured Hierarchical World Model for Long-Horizon Surgical Robot Manipulation". [[Paper](https://arxiv.org/abs/2608.13103)]
 
----
 
 ## Other
 
