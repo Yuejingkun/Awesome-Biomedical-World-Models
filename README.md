@@ -28,6 +28,8 @@ A curated collection of papers, datasets, benchmarks, and resources related to B
 - 🫀 [World Models for Virtual Organoids](#world-models-for-virtual-organoids)
 - 👤 [World Models for Virtual Patients and Clinical Decision-Making](#world-models-for-virtual-patients-and-clinical-decision-making)
 - 🪡 [World Models for Surgical Simulation and Embodied Autonomy](#world-models-for-surgical-simulation-and-embodied-autonomy)
+- 🎉 [Other](#other)
+- 🪜 [Challenge](#challenge)
 - 📊 [Data](#data)
 - 📣 [Contributing](#contributing)
 - 🙏 [Acknowledgements](#acknowledgements)
@@ -44,6 +46,7 @@ A curated collection of papers, datasets, benchmarks, and resources related to B
 - **ODesign**, "ODesign: A World Model for Biomolecular Interaction Design". [[Paper](https://arxiv.org/abs/2510.22304)] [[Code](https://github.com/OTeam-AI4S/ODesign)] [[Website](https://odesign1.github.io/)]
 - **CellOS**, "CellOS: Learning a World Model of Cellular State through Joint Embedding Prediction". [[Paper](https://www.biorxiv.org/content/10.64898/2026.06.18.733163v1)]
 - **MicroVerse**, "MicroVerse: A Preliminary Exploration Toward a Micro-World Simulation". [[Paper](https://arxiv.org/abs/2603.00585)] [[Code](https://github.com/FreedomIntelligence/MicroVerse)]
+- **Orthogonal JEPA**, "Orthogonal JEPA: Factorized Predictive States for Latent World Models". [[Paper](https://arxiv.org/abs/2608.20065)]
 
 ---
 
@@ -65,7 +68,7 @@ A curated collection of papers, datasets, benchmarks, and resources related to B
 - **MRI CEK-World**, "MRI Contrast Enhancement Kinetics World Model". [[Paper](https://arxiv.org/abs/2602.19285)] [[Code](https://github.com/DD0922/MRI-Contrast-Enhancement-Kinetics-World-Model)]
 - **Cardiac World Model**, "Structure-aware World Model for Probe Guidance via Large-scale Self-supervised Pre-train". [[Paper](https://arxiv.org/abs/2406.19756v2)]
 - **Cardiac Copilot**, "Cardiac Copilot: Automatic Probe Guidance for Echocardiography with World Model". [[Paper](https://arxiv.org/abs/2406.13165v2)]
-- **SepsisAgent**, "Agentifying Patient Dynamics within LLMs through Interacting with Clinical World Model". [[Paper](https://arxiv.org/abs/2605.14723)] [[code](https://github.com/FreedomIntelligence/SepsisAgent)]
+- **SepsisAgent**, "Agentifying Patient Dynamics within LLMs through Interacting with Clinical World Model". [[Paper](https://arxiv.org/abs/2605.14723)] [[Code](https://github.com/FreedomIntelligence/SepsisAgent)]
 - **DiagGym**, "Evolving Interactive Diagnostic Agents in a Virtual Clinical Environment". [[Paper](https://arxiv.org/abs/2510.24654)] [[Code](https://github.com/MAGIC-AI4Med/DiagGym)]
 - **TwinRL-Onco**, "TwinRL-Onco: A World Model-Empowered Digital Twin Framework with Hierarchical Reinforcement Learning for Venetoclax Resistance Trajectory Prediction and Adaptive Therapy Optimization in Chronic Lymphocytic Leukemia". [[Paper](https://ieeexplore.ieee.org/document/11535005)]
 - **MedGenesis**, "MedGenesis: Toward a World Model for
