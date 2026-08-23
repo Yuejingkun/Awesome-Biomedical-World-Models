@@ -76,6 +76,7 @@ Autonomous Clinical and Translational Research". [[Paper](https://www.medrxiv.or
 - **HounsWorld**, "HounsWorld: A Multimodal World Model for Hidden Patient-State Readout, Reconstruction, and Simulation". [[Paper](https://arxiv.org/abs/2608.12904)] [[Code](https://github.com/byhwhite/HounsWorld)]
 - **Atrial fibrillation world model**, "Intervention-Aware Clinical World Model for
 Post–Op Outcome Forecasting in Cardiology". [[Paper](https://arxiv.org/abs/2608.13518)]
+- **SMB-Structure**, "The Patient is not a Moving Document: A World Model Training Paradigm for Longitudinal EHR". [[Paper](https://arxiv.org/abs/2601.22128)]
 
 ---
 
