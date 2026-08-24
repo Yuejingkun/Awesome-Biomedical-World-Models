@@ -77,6 +77,7 @@ Autonomous Clinical and Translational Research". [[Paper](https://www.medrxiv.or
 - **Atrial fibrillation world model**, "Intervention-Aware Clinical World Model for
 Post–Op Outcome Forecasting in Cardiology". [[Paper](https://arxiv.org/abs/2608.13518)]
 - **SMB-Structure**, "The Patient is not a Moving Document: A World Model Training Paradigm for Longitudinal EHR". [[Paper](https://arxiv.org/abs/2601.22128)]
+- **CMWM**, "ChronoMedicalWorld: A Medical World Model for Learning Patient Trajectories from Longitudinal Care Data". [[Paper](https://arxiv.org/abs/2605.21963)]
 
 ---
 
