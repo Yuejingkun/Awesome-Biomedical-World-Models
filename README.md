@@ -78,6 +78,8 @@ Autonomous Clinical and Translational Research". [[Paper](https://www.medrxiv.or
 Post–Op Outcome Forecasting in Cardiology". [[Paper](https://arxiv.org/abs/2608.13518)]
 - **SMB-Structure**, "The Patient is not a Moving Document: A World Model Training Paradigm for Longitudinal EHR". [[Paper](https://arxiv.org/abs/2601.22128)]
 - **CMWM**, "ChronoMedicalWorld: A Medical World Model for Learning Patient Trajectories from Longitudinal Care Data". [[Paper](https://arxiv.org/abs/2605.21963)]
+- **MedDream**, "A radiographic world model for clinical reasoning and evidence
+generation". [[Paper](https://arxiv.org/abs/2609.07719)]
 
 ---
 
@@ -102,6 +104,7 @@ with Plausible Instrument-Tissue Dynamics". [[Paper](https://arxiv.org/abs/2606.
 ## Other
 
 - "Did the Grid Erase the Event? EndoClock for Auditing Medical World-Model Pipelines". [[Paper](https://arxiv.org/pdf/2608.09266)]
+- "Future Querying: Can LLMs Serve as Implicit Medical World Models?". [[Paper](https://arxiv.org/abs/2608.23248)]
 
 
 ---
