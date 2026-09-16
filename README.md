@@ -47,6 +47,7 @@ A curated collection of papers, datasets, benchmarks, and resources related to B
 - **CellOS**, "CellOS: Learning a World Model of Cellular State through Joint Embedding Prediction". [[Paper](https://www.biorxiv.org/content/10.64898/2026.06.18.733163v1)]
 - **MicroVerse**, "MicroVerse: A Preliminary Exploration Toward a Micro-World Simulation". [[Paper](https://arxiv.org/abs/2603.00585)] [[Code](https://github.com/FreedomIntelligence/MicroVerse)]
 - **Orthogonal JEPA**, "Orthogonal JEPA: Factorized Predictive States for Latent World Models". [[Paper](https://arxiv.org/abs/2608.20065)]
+- **Immune World Model**, "An immune world model for multiscale forecasting and therapeutic hypothesis generation". [[Paper](https://arxiv.org/abs/2609.14709v1)]
 
 ---
 
