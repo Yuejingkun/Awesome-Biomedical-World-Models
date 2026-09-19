@@ -48,6 +48,7 @@ A curated collection of papers, datasets, benchmarks, and resources related to B
 - **MicroVerse**, "MicroVerse: A Preliminary Exploration Toward a Micro-World Simulation". [[Paper](https://arxiv.org/abs/2603.00585)] [[Code](https://github.com/FreedomIntelligence/MicroVerse)]
 - **Orthogonal JEPA**, "Orthogonal JEPA: Factorized Predictive States for Latent World Models". [[Paper](https://arxiv.org/abs/2608.20065)]
 - **Immune World Model**, "An immune world model for multiscale forecasting and therapeutic hypothesis generation". [[Paper](https://arxiv.org/abs/2609.14709v1)]
+- **JEPA-Anything**, "JEPA-Anything: Learning Predictive Models across Different Worlds". [[Paper](https://arxiv.org/abs/2609.20800)] [[Code](https://github.com/Gen-Verse/JEPA-Anything)]
 
 ---
 
@@ -106,6 +107,7 @@ with Plausible Instrument-Tissue Dynamics". [[Paper](https://arxiv.org/abs/2606.
 
 - "Did the Grid Erase the Event? EndoClock for Auditing Medical World-Model Pipelines". [[Paper](https://arxiv.org/pdf/2608.09266)]
 - "Future Querying: Can LLMs Serve as Implicit Medical World Models?". [[Paper](https://arxiv.org/abs/2608.23248)]
+- "World models for biomedicine". [[Paper](https://www.cell.com/cell/fulltext/S0092-8674(26)01005-6)]
 
 
 ---
