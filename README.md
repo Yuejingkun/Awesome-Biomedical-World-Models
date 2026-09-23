@@ -49,7 +49,7 @@ A curated collection of papers, datasets, benchmarks, and resources related to B
 - **Orthogonal JEPA**, "Orthogonal JEPA: Factorized Predictive States for Latent World Models". [[Paper](https://arxiv.org/abs/2608.20065)]
 - **Immune World Model**, "An immune world model for multiscale forecasting and therapeutic hypothesis generation". [[Paper](https://arxiv.org/abs/2609.14709v1)]
 - **JEPA-Anything**, "JEPA-Anything: Learning Predictive Models across Different Worlds". [[Paper](https://arxiv.org/abs/2609.20800)] [[Code](https://github.com/Gen-Verse/JEPA-Anything)]
-
+- "Ability of a Structural World Model to Detect Cryptic Pockets from Apo Structure" [[Paper](https://www.biorxiv.org/content/10.64898/2026.09.21.752781v1)]
 ---
 
 ## World Models for Virtual Organoids
@@ -82,6 +82,7 @@ Post–Op Outcome Forecasting in Cardiology". [[Paper](https://arxiv.org/abs/260
 - **CMWM**, "ChronoMedicalWorld: A Medical World Model for Learning Patient Trajectories from Longitudinal Care Data". [[Paper](https://arxiv.org/abs/2605.21963)]
 - **MedDream**, "A radiographic world model for clinical reasoning and evidence
 generation". [[Paper](https://arxiv.org/abs/2609.07719)]
+- **HealthFlux**, "A world model simulates the latent dynamics of human health". [[Paper](https://www.medrxiv.org/content/10.64898/2026.09.19.26363460v1)]
 
 ---
 
