@@ -102,6 +102,7 @@ with Plausible Instrument-Tissue Dynamics". [[Paper](https://arxiv.org/abs/2606.
 - **Surg-UniWorld**, "Surg-UniWorld: A Unified Surgical World Model with Multimodal Control Experts". [[Paper](https://arxiv.org/abs/2608.06770)]
 - **CrossScope**, "CrossScope: A Role-Asymmetric World Model for Joint Dual-Scope Surgical Video Prediction". [[Paper](https://arxiv.org/abs/2608.03211)]
 - **S2-HWM**,  "S2-HWM: Sparse Event-Structured Hierarchical World Model for Long-Horizon Surgical Robot Manipulation". [[Paper](https://arxiv.org/abs/2608.13103)]
+- **SAW**, "SAW: Toward a Surgical Action World Model via Controllable and Scalable Video Generation". [[Paper](https://link.springer.com/chapter/10.1007/978-3-032-38236-8_43)]
 
 
 ## Other
