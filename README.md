@@ -83,7 +83,8 @@ Post–Op Outcome Forecasting in Cardiology". [[Paper](https://arxiv.org/abs/260
 - **MedDream**, "A radiographic world model for clinical reasoning and evidence
 generation". [[Paper](https://arxiv.org/abs/2609.07719)]
 - **HealthFlux**, "A world model simulates the latent dynamics of human health". [[Paper](https://www.medrxiv.org/content/10.64898/2026.09.19.26363460v1)]
-
+- **SteeraMed**, "SteeraMed: A Biomedical World Model for N-of-1 Intervention Reasoning across Chronic Diseases and Aging". [[Paper](https://doi.org/10.20944/preprints202605.1578.v1)]
+- **SteeraMed Bench**, "Toward a Self-Learning AI Agent for Drug Repurposing: Building Human-Scale Representations for Virtual Patients". [[Paper](https://doi.org/10.20944/preprints202608.0998.v1)]
 ---
 
 ## World Models for Surgical Simulation and Embodied Autonomy
@@ -110,7 +111,7 @@ with Plausible Instrument-Tissue Dynamics". [[Paper](https://arxiv.org/abs/2606.
 - "Did the Grid Erase the Event? EndoClock for Auditing Medical World-Model Pipelines". [[Paper](https://arxiv.org/pdf/2608.09266)]
 - "Future Querying: Can LLMs Serve as Implicit Medical World Models?". [[Paper](https://arxiv.org/abs/2608.23248)]
 - "World models for biomedicine". [[Paper](https://www.cell.com/cell/fulltext/S0092-8674(26)01005-6)]
-
+- **Capomics Steerability**, "World Models for Biomedicine: A Steerability Framework". [[Paper](https://doi.org/10.20944/preprints202605.0366.v1)]
 
 ---
 
