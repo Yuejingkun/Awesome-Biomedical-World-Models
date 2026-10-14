@@ -50,6 +50,7 @@ A curated collection of papers, datasets, benchmarks, and resources related to B
 - **Immune World Model**, "An immune world model for multiscale forecasting and therapeutic hypothesis generation". [[Paper](https://arxiv.org/abs/2609.14709v1)]
 - **JEPA-Anything**, "JEPA-Anything: Learning Predictive Models across Different Worlds". [[Paper](https://arxiv.org/abs/2609.20800)] [[Code](https://github.com/Gen-Verse/JEPA-Anything)]
 - "Ability of a Structural World Model to Detect Cryptic Pockets from Apo Structure" [[Paper](https://www.biorxiv.org/content/10.64898/2026.09.21.752781v1)]
+- **VCLMU**, "VCLMU: Mechanism-Centric Virtual Cell World Modeling for Perturbation Response". [[Paper](https://arxiv.org/abs/2610.04475v1)]
 ---
 
 ## World Models for Virtual Organoids
@@ -82,7 +83,15 @@ Post–Op Outcome Forecasting in Cardiology". [[Paper](https://arxiv.org/abs/260
 - **CMWM**, "ChronoMedicalWorld: A Medical World Model for Learning Patient Trajectories from Longitudinal Care Data". [[Paper](https://arxiv.org/abs/2605.21963)]
 - **MedDream**, "A radiographic world model for clinical reasoning and evidence
 generation". [[Paper](https://arxiv.org/abs/2609.07719)]
-- **HealthFlux**, "A world model simulates the latent dynamics of human health". [[Paper](https://www.medrxiv.org/content/10.64898/2026.09.19.26363460v1)]
+- **HealthFlux**, "A world model simulates the latent dynamics of human health". [[Paper](https://www.medrxiv.org/content/10.64898/2026.09.19.26363460v2)]
+- **TSWM**, "On the Divergence of Accuracy and Mechanism Consistency inTime Series World Models". [[Paper](https://arxiv.org/abs/2610.01842)]
+- **UltraWorld**, "UltraWorld: Learning Interactive Ultrasound World Models from Untracked Clinical Videos with Acoustic Sampling Map". [[Paper](https://arxiv.org/abs/2610.09785)]
+- **PHYSIO WORLD**, "Sign-Constrained Intervention Effects for Domain-Generalizable ICU World Models". [[Paper](https://arxiv.org/abs/2610.11090)] [[Project](https://shahinxu.github.io/physioworld/)]
+- **CancerJEPA**, "Patient, Place, Prior (P3
+): What Counts as Personalization in
+Medical World Models?" [[Paper](https://arxiv.org/abs/2610.09194v1)]
+- **EHR2Trace**, "EHR2Trace: Auditable EHR Data Infrastructure for Patient World Models and Clinical Agents". [[Paper](https://arxiv.org/abs/2609.38193)]
+
 
 ---
 
@@ -103,6 +112,10 @@ with Plausible Instrument-Tissue Dynamics". [[Paper](https://arxiv.org/abs/2606.
 - **CrossScope**, "CrossScope: A Role-Asymmetric World Model for Joint Dual-Scope Surgical Video Prediction". [[Paper](https://arxiv.org/abs/2608.03211)]
 - **S2-HWM**,  "S2-HWM: Sparse Event-Structured Hierarchical World Model for Long-Horizon Surgical Robot Manipulation". [[Paper](https://arxiv.org/abs/2608.13103)]
 - **SAW**, "SAW: Toward a Surgical Action World Model via Controllable and Scalable Video Generation". [[Paper](https://link.springer.com/chapter/10.1007/978-3-032-38236-8_43)]
+- "A Belief-State World Model for Catheter Navigation under Sparse Fluoroscopy". [[Paper](https://arxiv.org/abs/2610.08469)]
+- **Cosmos-H-Dreams**, "NVIDIA Cosmos-H-Dreams: Real-Time Generative Physics Simulation for Surgical Robotics". [[Paper](https://arxiv.org/abs/2608.24199)]
+- **REMEDY**, "REMEDY: HOW FAR IS VIDEO GENERATION FROM
+MEDICAL EDUCATION WORLD MODELS?" [[Paper](https://arxiv.org/abs/2609.32460)]
 
 
 ## Other
@@ -110,6 +123,7 @@ with Plausible Instrument-Tissue Dynamics". [[Paper](https://arxiv.org/abs/2606.
 - "Did the Grid Erase the Event? EndoClock for Auditing Medical World-Model Pipelines". [[Paper](https://arxiv.org/pdf/2608.09266)]
 - "Future Querying: Can LLMs Serve as Implicit Medical World Models?". [[Paper](https://arxiv.org/abs/2608.23248)]
 - "World models for biomedicine". [[Paper](https://www.cell.com/cell/fulltext/S0092-8674(26)01005-6)]
+- "A world model of the virtual cell". [[Paper](https://www.cell.com/cell/fulltext/S0092-8674(26)01015-9)]
 
 
 ---
