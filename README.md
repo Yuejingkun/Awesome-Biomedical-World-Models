@@ -91,6 +91,7 @@ generation". [[Paper](https://arxiv.org/abs/2609.07719)]
 ): What Counts as Personalization in
 Medical World Models?" [[Paper](https://arxiv.org/abs/2610.09194v1)]
 - **EHR2Trace**, "EHR2Trace: Auditable EHR Data Infrastructure for Patient World Models and Clinical Agents". [[Paper](https://arxiv.org/abs/2609.38193)]
+- **EpiWorld**, "EpiWorld: Grounding LLM Policy Agents in Epidemiological World Models". [[Paper](https://arxiv.org/abs/2610.02744)]
 
 
 ---
@@ -116,6 +117,7 @@ with Plausible Instrument-Tissue Dynamics". [[Paper](https://arxiv.org/abs/2606.
 - **Cosmos-H-Dreams**, "NVIDIA Cosmos-H-Dreams: Real-Time Generative Physics Simulation for Surgical Robotics". [[Paper](https://arxiv.org/abs/2608.24199)]
 - **REMEDY**, "REMEDY: HOW FAR IS VIDEO GENERATION FROM
 MEDICAL EDUCATION WORLD MODELS?" [[Paper](https://arxiv.org/abs/2609.32460)]
+- **SurgCast**, "SurgCast: Action-Conditioned Future Skeletons for Controllable Surgical World Models". [[Paper](https://arxiv.org/abs/2610.15645)]
 
 
 ## Other
@@ -131,6 +133,7 @@ MEDICAL EDUCATION WORLD MODELS?" [[Paper](https://arxiv.org/abs/2609.32460)]
 ## Challenge
 
 - International Workshop on Medical World Model (MWM) in MICCAI 2026. [[Website](https://mwm2026.github.io/)]
+- NeurIPS 2026 Workshop on World Models for High-Stakes Health (WMHS). [[Website](https://neurips.cc/virtual/2026/loc/atlanta/workshop/137573)]
 
 ---
 
