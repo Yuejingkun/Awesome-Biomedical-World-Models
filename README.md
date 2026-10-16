@@ -92,6 +92,9 @@ generation". [[Paper](https://arxiv.org/abs/2609.07719)]
 Medical World Models?" [[Paper](https://arxiv.org/abs/2610.09194v1)]
 - **EHR2Trace**, "EHR2Trace: Auditable EHR Data Infrastructure for Patient World Models and Clinical Agents". [[Paper](https://arxiv.org/abs/2609.38193)]
 - **EpiWorld**, "EpiWorld: Grounding LLM Policy Agents in Epidemiological World Models". [[Paper](https://arxiv.org/abs/2610.02744)]
+- **PatientWM**, "PatientWM: Towards Generalizable Clinical World Models via Unified Patient States
+". [[Paper](https://arxiv.org/abs/2610.17059)]
+- **SonoWorld**, "SonoWorld: Towards Interactive Pose-Controllable Ultrasound World Models". [[Paper](https://arxiv.org/abs/2610.19327)]
 
 
 ---
