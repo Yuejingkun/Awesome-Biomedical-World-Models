@@ -55,6 +55,7 @@ A curated collection of papers, datasets, benchmarks, and resources related to B
 
 ## World Models for Virtual Organoids
 - **V3Cell**, "V3Cell: A Vision-Guided Virtual 3D Cell Framework for Phenotypic Modeling and Perturbation Prediction". [[Paper](https://www.biorxiv.org/content/10.64898/2026.06.23.734130v1)] [[Code](https://github.com/Laineyoulu/V3Cell)]
+- "An Organoid World Model — Forecasting Self-Supervised Feature Dynamics for Early Chemosensitivity Prediction". [[Paper](https://papers.miccai.org/miccai-2026-sat/paper/MWM_031.pdf)]
 
 ---
 
@@ -92,9 +93,17 @@ generation". [[Paper](https://arxiv.org/abs/2609.07719)]
 Medical World Models?" [[Paper](https://arxiv.org/abs/2610.09194v1)]
 - **EHR2Trace**, "EHR2Trace: Auditable EHR Data Infrastructure for Patient World Models and Clinical Agents". [[Paper](https://arxiv.org/abs/2609.38193)]
 - **EpiWorld**, "EpiWorld: Grounding LLM Policy Agents in Epidemiological World Models". [[Paper](https://arxiv.org/abs/2610.02744)]
-- **PatientWM**, "PatientWM: Towards Generalizable Clinical World Models via Unified Patient States
-". [[Paper](https://arxiv.org/abs/2610.17059)]
+- **PatientWM**, "PatientWM: Towards Generalizable Clinical World Models via Unified Patient States". [[Paper](https://arxiv.org/abs/2610.17059)]
 - **SonoWorld**, "SonoWorld: Towards Interactive Pose-Controllable Ultrasound World Models". [[Paper](https://arxiv.org/abs/2610.19327)]
+- **TheraWorld**, "TheraWorld: A Medical World Model in Hyperbolic Space for
+Treatment-Driven Disease Trajectory Simulation". [[Paper](https://openreview.net/pdf?id=0D0wihmrNU)]
+- **USBiomWorld**, "USBiomWorld: Ultrasound Biometry World Model for Robust Landmark Measurement". [[Paper](https://papers.miccai.org/miccai-2026-sat/paper/FoundUS_016.pdf)]
+- **LandWorld**, "LandWorld — A Latent Predictive Foundation Model for Landmark-Based Ultrasound Biometry". [[Paper](https://papers.miccai.org/miccai-2026-sat/paper/FoundUS_068.pdf)]
+- "Self-Assessing Anatomical World Model for
+Unified Multi-Domain Ultrasound Biometry". [[Paper](https://papers.miccai.org/miccai-2026-sat/paper/FoundUS_061.pdf)]
+- **CardioWorld-GQ**, "CardioWorld-GQ: An Observation-Conditioned Cardiac Imaging World Model with a Differentiable Clinical Readout and Calibrated Endpoint Uncertainty". [[Paper](https://papers.miccai.org/miccai-2026-sat/paper/CMRSeg_040.pdf)]
+
+
 
 
 ---
@@ -118,9 +127,14 @@ with Plausible Instrument-Tissue Dynamics". [[Paper](https://arxiv.org/abs/2606.
 - **SAW**, "SAW: Toward a Surgical Action World Model via Controllable and Scalable Video Generation". [[Paper](https://link.springer.com/chapter/10.1007/978-3-032-38236-8_43)]
 - "A Belief-State World Model for Catheter Navigation under Sparse Fluoroscopy". [[Paper](https://arxiv.org/abs/2610.08469)]
 - **Cosmos-H-Dreams**, "NVIDIA Cosmos-H-Dreams: Real-Time Generative Physics Simulation for Surgical Robotics". [[Paper](https://arxiv.org/abs/2608.24199)]
-- **REMEDY**, "REMEDY: HOW FAR IS VIDEO GENERATION FROM
-MEDICAL EDUCATION WORLD MODELS?" [[Paper](https://arxiv.org/abs/2609.32460)]
+- **REMEDY**, "REMEDY: HOW FAR IS VIDEO GENERATION FROM MEDICAL EDUCATION WORLD MODELS?" [[Paper](https://arxiv.org/abs/2609.32460)]
 - **SurgCast**, "SurgCast: Action-Conditioned Future Skeletons for Controllable Surgical World Models". [[Paper](https://arxiv.org/abs/2610.15645)]
+- **SurgGenesis**, "SurgGenesis: A Generative Surgical World Model for Future-Aware Surgical Understanding". [[Paper](https://papers.miccai.org/miccai-2026-sat/paper/MWM_011.pdf)]
+- "Intervention-Aware Clinical World Model for Post–Op Outcome Forecasting in Cardiology". [[Paper](https://arxiv.org/abs/2608.13518)]
+- "World Models for Surgical Video Synthesis for Tool Localisation and Tracking". [[Paper](https://papers.miccai.org/miccai-2026-sat/paper/DEMI_029.pdf)]
+
+
+
 
 
 ## Other
