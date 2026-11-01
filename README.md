@@ -102,6 +102,7 @@ Treatment-Driven Disease Trajectory Simulation". [[Paper](https://openreview.net
 - "Self-Assessing Anatomical World Model for
 Unified Multi-Domain Ultrasound Biometry". [[Paper](https://papers.miccai.org/miccai-2026-sat/paper/FoundUS_061.pdf)]
 - **CardioWorld-GQ**, "CardioWorld-GQ: An Observation-Conditioned Cardiac Imaging World Model with a Differentiable Clinical Readout and Calibrated Endpoint Uncertainty". [[Paper](https://papers.miccai.org/miccai-2026-sat/paper/CMRSeg_040.pdf)]
+- **Saga**, "Saga: an in silico ontology for a multimodal patient world model". [[P)aper](https://arxiv.org/abs/2610.33054)]
 
 
 
@@ -143,6 +144,7 @@ with Plausible Instrument-Tissue Dynamics". [[Paper](https://arxiv.org/abs/2606.
 - "Future Querying: Can LLMs Serve as Implicit Medical World Models?". [[Paper](https://arxiv.org/abs/2608.23248)]
 - "World models for biomedicine". [[Paper](https://www.cell.com/cell/fulltext/S0092-8674(26)01005-6)]
 - "A world model of the virtual cell". [[Paper](https://www.cell.com/cell/fulltext/S0092-8674(26)01015-9)]
+- "Toward Verifiable Medical Imaging World Models: An Engineering Framework for Evaluating Simulation Fidelity, Roll-Out Stability, and Clinical Plausibility". [[Paper](https://link.springer.com/article/10.1007/s10278-026-02413-0)]
 
 
 ---
