@@ -103,7 +103,7 @@ Treatment-Driven Disease Trajectory Simulation". [[Paper](https://openreview.net
 Unified Multi-Domain Ultrasound Biometry". [[Paper](https://papers.miccai.org/miccai-2026-sat/paper/FoundUS_061.pdf)]
 - **CardioWorld-GQ**, "CardioWorld-GQ: An Observation-Conditioned Cardiac Imaging World Model with a Differentiable Clinical Readout and Calibrated Endpoint Uncertainty". [[Paper](https://papers.miccai.org/miccai-2026-sat/paper/CMRSeg_040.pdf)]
 - **Saga**, "Saga: an in silico ontology for a multimodal patient world model". [[P)aper](https://arxiv.org/abs/2610.33054)]
-
+- "Learning a patient world model for health system simulation in intensive care". [[Paper](https://arxiv.org/abs/2611.08392v1)]
 
 
 
@@ -133,6 +133,7 @@ with Plausible Instrument-Tissue Dynamics". [[Paper](https://arxiv.org/abs/2606.
 - **SurgGenesis**, "SurgGenesis: A Generative Surgical World Model for Future-Aware Surgical Understanding". [[Paper](https://papers.miccai.org/miccai-2026-sat/paper/MWM_011.pdf)]
 - "Intervention-Aware Clinical World Model for Post–Op Outcome Forecasting in Cardiology". [[Paper](https://arxiv.org/abs/2608.13518)]
 - "World Models for Surgical Video Synthesis for Tool Localisation and Tracking". [[Paper](https://papers.miccai.org/miccai-2026-sat/paper/DEMI_029.pdf)]
+- **SurgWorld**, "SurgWorld: Learning Surgical Representations Beyond Observation via Latent Prediction". [[Paper](https://arxiv.org/abs/2611.11140)]
 
 
 
