@@ -104,7 +104,7 @@ Unified Multi-Domain Ultrasound Biometry". [[Paper](https://papers.miccai.org/mi
 - **CardioWorld-GQ**, "CardioWorld-GQ: An Observation-Conditioned Cardiac Imaging World Model with a Differentiable Clinical Readout and Calibrated Endpoint Uncertainty". [[Paper](https://papers.miccai.org/miccai-2026-sat/paper/CMRSeg_040.pdf)]
 - **Saga**, "Saga: an in silico ontology for a multimodal patient world model". [[P)aper](https://arxiv.org/abs/2610.33054)]
 - "Learning a patient world model for health system simulation in intensive care". [[Paper](https://arxiv.org/abs/2611.08392v1)]
-
+- **PWM**, "Physiological World Models for Human State Transitions". [[Paper](https://arxiv.org/abs/2608.15309)]
 
 
 ---
